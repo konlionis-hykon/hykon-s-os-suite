@@ -4,7 +4,7 @@ Modular documentation for **Hykon S-OS**, a runtime governance architecture for 
 
 This repository contains the markdown documentation suite for the **Hykon Stability & Alignment Suite**. It presents Hykon S-OS as an **interaction-layer governance system** designed to stabilise and regulate large language model behaviour at inference time, without modifying model weights, model architecture, training data, or tool access. :contentReference[oaicite:2]{index=2}
 
-Rather than treating alignment only as a training-time problem, Hykon S-OS explores a complementary approach: treating the **conversation itself as a governed runtime process**. :contentReference[oaicite:3]{index=3}
+Rather than treating alignment only as a training-time problem, Hykon S-OS explores a complementary approach: treating the **conversation itself as a governed runtime process**. 
 
 ---
 
@@ -16,7 +16,7 @@ This repository serves as the readable documentation layer for the **Hykon Stabi
 - **Regulatory and Integrity Module**
 - **Structural Observation and Drift Module**
 - **Symbol Code Kernel and Governance Priors Module**
-- **v4.2 Integration Note** (pre-governance verifiability gating and Hard Halt terminal condition) :contentReference[oaicite:4]{index=4}
+- **v4.2 Integration Note** (pre-governance verifiability gating and Hard Halt terminal condition) 
 
 Together, these documents describe a modular control architecture that separates:
 
@@ -49,7 +49,7 @@ The suite now includes an integrated framing in which **Hykon v4.2 operates as a
 - **Stage 0** handles epistemic mode detection
 - **Stage 0.5** applies a Hard Knowledge Verifiability Gate
 - the main **S-OS runtime sequence** then governs conversational structure, damping, containment, response shaping, and explanation
-- **Hard Halt** is defined as the terminal condition for unresolvable states: **one sentence, no explanation, no continuation** :contentReference[oaicite:5]{index=5}
+- **Hard Halt** is defined as the terminal condition for unresolvable states: **one sentence, no explanation, no continuation** 
 
 This means the suite distinguishes between:
 
@@ -61,7 +61,7 @@ and
 - **conversational governance**  
   (how the response should be shaped, constrained, stabilised, or terminated)
 
-This framing is intended as a **research-stage, prompt-mediated governance architecture**, not as a claim that a model is literally running a hidden internal operating system. :contentReference[oaicite:6]{index=6}
+This framing is intended as a **research-stage, prompt-mediated governance architecture**, not as a claim that a model is literally running a hidden internal operating system. 
 
 ---
 
@@ -69,7 +69,7 @@ This framing is intended as a **research-stage, prompt-mediated governance archi
 
 These documents are written so they can be read both by humans and by language models.
 
-A practical way to explore the Hykon S-OS framework is to upload one or more of the module documents to an LLM and ask it whether it can attempt to **perform Hykon during the conversation while explaining what it is doing in plain language**. This reflects the perform-and-explain design used across the suite. :contentReference[oaicite:7]{index=7}
+A practical way to explore the Hykon S-OS framework is to upload one or more of the module documents to an LLM and ask it whether it can attempt to **perform Hykon during the conversation while explaining what it is doing in plain language**. This reflects the perform-and-explain design used across the suite. 
 
 This can be useful for:
 
@@ -102,7 +102,7 @@ Structural observation, drift detection, telemetry logic, and trajectory monitor
 Symbol Code as bounded runtime function and governance-prior layer
 
 ### 6. `Hykon_S-OS_v4_2_Integration_Note.md`
-How Hykon v4.2 plugs into S-OS as a pre-governance layer, including the Hard Knowledge Verifiability Gate and Hard Halt terminal condition :contentReference[oaicite:8]{index=8}
+How Hykon v4.2 plugs into S-OS as a pre-governance layer, including the Hard Knowledge Verifiability Gate and Hard Halt terminal condition 
 
 ---
 
@@ -128,7 +128,7 @@ The documents in this repository describe an architectural and operational propo
 - conversational safety constraints
 - epistemic gating prior to response formation
 
-They are intended as **structured research documents and public working materials** within an ongoing open research programme. :contentReference[oaicite:9]{index=9} :contentReference[oaicite:10]{index=10}
+They are intended as **structured research documents and public working materials** within an ongoing open research programme. 
 
 ---
 
